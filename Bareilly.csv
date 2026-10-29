@@ -1,0 +1,11 @@
+Order_ID,Restaurant,Area,Promised,Actual,Delay,Weather,Reason,Value
+ORD001,BiryaniByKilo,IzzatNagar,31,44,13,Foggy,Traffic,430
+ORD002,WowMomo,CBGanj,30,26,-4,Hot,OnTime,443
+ORD003,KFC,IzzatNagar,36,50,14,Rainy,RestDelay,352
+ORD004,BiryaniByKilo,IzzatNagar,36,46,10,Clear,Traffic,289
+ORD005,KFC,PilibhitBypass,33,30,-3,Foggy,OnTime,406
+ORD006,BiryaniByKilo,RajendraNagar,36,44,8,Foggy,RestDelay,364
+ORD007,WowMomo,CivilLines,37,49,12,Rainy,Traffic,134
+ORD008,BiryaniByKilo,PilibhitBypass,26,26,0,Hot,OnTime,153
+ORD009,LocalDhaba,CivilLines,36,42,6,Rainy,RestDelay,369
+ORD010,LocalDhaba,PilibhitBypass,37,49,12,Clear,Traffic,152
